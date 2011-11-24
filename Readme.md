@@ -10,8 +10,7 @@ Instructions
 -------------
 
 * Install [GitHub for Mac](http://mac.github.com/)
-* Download [sublime-text-2-github](https://github.com/csytan/sublime-text-2-github/zipball/master).
-* Unzip and copy folder to your Sublime Text 2 packages folder.
+* Download [sublime-text-2-github](https://github.com/csytan/sublime-text-2-github/zipball/master) and copy unzipped folder to your Sublime Text 2 packages folder.
 * You can find your packages folder through the following menus:
 **Sublime Text 2** -> **Preferences** -> **Browse Packages**
 * Restart Sublime Text
